@@ -1,22 +1,42 @@
 # Augustus Seabrooke
 
-I studied biology at Brown and computer science at Oregon State, and I'm continuing graduate study in physiology.
+I build software at the intersection of **computer science, quantitative research, and health science**.
 
-My goal is to combine healthcare and health science with capital markets, trading algorithms, and software engineering. I'm particularly interested in healthcare and biotech market research, using data to investigate trading ideas, and building software that supports learning and research.
+My background spans biology and computer science, with ongoing graduate work in physiology and computer science. I am especially interested in systems that turn messy information into something testable: data pipelines, research tooling, backend services, quantitative experiments, and focused learning software.
 
-I'm the founder of [Quantum Premier Group](https://www.qpgroup.co/), where I'm developing research and software projects that bring together my interests in healthcare, biotechnology, and capital markets. This includes exploring trading algorithms and building tools for learning and research.
+I am also the founder of [Quantum Premier Group](https://www.qpgroup.co/). Company and research infrastructure is kept separate from the public portfolio where appropriate.
 
-These repositories collect coursework, small tools, and experiments as I develop my Python, SQL, testing, and debugging skills.
+## Selected engineering work
 
-## A few projects
+### [Device Ops Dashboard](https://github.com/aseabroo/device-ops-dashboard)
+Full-stack Node.js/Express/MySQL operations application for customers, connected devices, firmware releases, deployments, and service tickets. Includes normalized relational modeling, parameterized SQL, Docker-based local setup, screenshots, unit tests, and MySQL-backed integration testing in GitHub Actions.
 
-- [LOLmicroservice](https://github.com/aseabroo/LOLmicroservice) — a small Flask API that returns a random League of Legends champion, with repeatable tests.
-- [RRAMWEBSCRAPE](https://github.com/aseabroo/RRAMWEBSCRAPE) — an older experiment extracting and plotting railroad industry data.
-- [CS340 group project](https://github.com/aseabroo/cs340-group173) — a shared database application using Express, Handlebars, and MySQL.
-- [QA take-home](https://github.com/aseabroo/qa-eng-take-home-aug) — API test work against a provided FastAPI application.
+### [Xiangqi Engine](https://github.com/aseabroo/xiangqi-engine)
+Test-driven Python engine for Chinese chess, rebuilt from an earlier coursework implementation with a cleaner model/board/game architecture, legal-move validation, check detection, and terminal-state handling.
+
+### [Mini Unix Shell](https://github.com/aseabroo/mini-unix-shell)
+C implementation of a minimal Unix-like shell covering process creation, I/O redirection, background execution, built-in commands, and signal handling.
+
+### [Socket Crypto Service](https://github.com/aseabroo/socket-crypto-service)
+Concurrent C TCP client/server project demonstrating sockets, process-based concurrency, message framing, and reversible text transformation.
+
+### [Champion Randomizer Service](https://github.com/aseabroo/champion-randomizer-service)
+Small Flask API rebuilt and tested as a focused Python web-service project, with explicit error handling and repeatable pytest checks.
+
+### [Quant Market Lab](https://github.com/aseabroo/quant-market-lab)
+Market-data experimentation sandbox for interactive charting, synthetic OHLCV generation, and lightweight Flask-based exploration. It is intentionally distinct from private quantitative trading/research infrastructure.
+
+## Smaller and historical work
+
+- **AminoBar** — SwiftUI macOS menu-bar amino-acid study utility; current prototype cleanup adds a single app entry point and testable search/filter logic.
+- **Python Learning Archive** — curated early Python coursework and learning history.
+- **RRAMWEBSCRAPE** — historical railroad-volume PDF extraction, cleanup, aggregation, and visualization experiment.
+- **CS340 / CS374 archives** — retained for coursework provenance; stronger concepts have been rebuilt into standalone portfolio projects.
+- **QA take-home** — retained as an unfeatured example of pytest/HTTPX API testing against a provided application.
+- **Fighter** — team Unity capstone preserved as a source/design archive with large third-party asset packs separated from portfolio-facing source.
 
 ## Current focus
 
-Building a stronger technical foundation for those interests: making projects easier to run, testing assumptions, handling errors, and explaining how the code works.
+I am continuing to strengthen the engineering around quantitative research, data analysis, testing, reproducibility, and scientific/medical learning tools.
 
-I use AI tools for coding and learning. Team projects and upstream work are credited in the repository READMEs.
+I use AI-assisted development tools as part of my workflow. Repository READMEs distinguish independent work, coursework, team projects, historical experiments, and upstream material so the provenance of each project stays clear.
