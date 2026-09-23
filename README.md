@@ -4,6 +4,8 @@ I studied biology at Brown and computer science at Oregon State, and I'm continu
 
 My goal is to combine healthcare and health science with capital markets, trading algorithms, and software engineering. I'm particularly interested in healthcare and biotech market research, using data to investigate trading ideas, and building software that supports learning and research.
 
+I'm the founder of [Quantum Premier Group](https://www.qpgroup.co/), where I'm developing research and software projects that bring together my interests in healthcare, biotechnology, and capital markets. This includes exploring trading algorithms and building tools for learning and research.
+
 These repositories collect coursework, small tools, and experiments as I develop my Python, SQL, testing, and debugging skills.
 
 ## A few projects
