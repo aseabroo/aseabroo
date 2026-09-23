@@ -1,8 +1,10 @@
 # Augustus Seabrooke
 
-I studied biology at Brown and computer science at Oregon State. I'm interested in software for biology, data analysis, and markets.
+I studied biology at Brown and computer science at Oregon State, and I'm continuing graduate study in physiology.
 
-These repositories collect coursework, small tools, and experiments. I'm working on becoming more comfortable with Python, SQL, testing, and debugging.
+My goal is to combine healthcare and health science with capital markets, trading algorithms, and software engineering. I'm particularly interested in healthcare and biotech market research, using data to investigate trading ideas, and building software that supports learning and research.
+
+These repositories collect coursework, small tools, and experiments as I develop my Python, SQL, testing, and debugging skills.
 
 ## A few projects
 
@@ -13,6 +15,6 @@ These repositories collect coursework, small tools, and experiments. I'm working
 
 ## Current focus
 
-Making older projects easier to run, handling errors more carefully, and explaining the decisions behind the code.
+Building a stronger technical foundation for those interests: making projects easier to run, testing assumptions, handling errors, and explaining how the code works.
 
 I use AI tools for coding and learning. Team projects and upstream work are credited in the repository READMEs.
