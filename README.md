@@ -28,7 +28,8 @@ Market-data experimentation sandbox for interactive charting, synthetic OHLCV ge
 
 ## Smaller and historical work
 
-- **AminoBar** — SwiftUI macOS menu-bar amino-acid study utility; current prototype cleanup adds a single app entry point and testable search/filter logic.
+- **AminoBar** — SwiftUI macOS menu-bar amino-acid study utility. The duplicate app entry point has been removed and search/filter tests added; a Mac Xcode build and UI run remain unverified.
+- **Parallel Computing Lab** — independently rewritten OpenMP Monte Carlo and optional MPI signal projection with correctness checks. CPU checks ran locally; MPI execution and reproducible performance measurements remain outstanding.
 - **Python Learning Archive** — curated early Python coursework and learning history.
 - **RRAMWEBSCRAPE** — historical railroad-volume PDF extraction, cleanup, aggregation, and visualization experiment.
 - **CS340 / CS374 archives** — retained for coursework provenance; stronger concepts have been rebuilt into standalone portfolio projects.
